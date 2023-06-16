@@ -61,19 +61,6 @@ career-profile:
      
      I have hands-on experience in designing and analyzing distributed microservice systems. In previous roles, I demonstrated leadership by guiding junior developers, conducting interviews, and conducting comprehensive code reviews. I possess a genuine enthusiasm for learning new design patterns and development approaches. I am always open to feedback and embrace new technical challenges as opportunities for growth.
 
-education:
-    title: Education
-    info:
-      - degree: Masters in Information Systems and Technology
-        university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
-        time: 2014 - 2016
-        details: |
-          Graduated with honors, average score 4.95 out of 5
-      - degree: Bachelor of Bioengineering Systems and Technology
-        university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
-        time: 2010 - 2014
-        details: |
-          Graduated with honors, average score 4.75 out of 5
 experiences:
     title: Engineering Experience
     info:
@@ -145,6 +132,19 @@ experiences:
           - Prepared and conducted laboratory experiments with wearable sensors
           - Handled and processed experiments' results statistics
 
+education:
+    title: Education
+    info:
+      - degree: Masters in Information Systems and Technology
+        university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
+        time: 2014 - 2016
+        details: |
+          Graduated with honors, average score 4.95 out of 5
+      - degree: Bachelor of Bioengineering Systems and Technology
+        university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
+        time: 2010 - 2014
+        details: |
+          Graduated with honors, average score 4.75 out of 5
 
 projects:
     title:
