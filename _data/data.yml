@@ -69,55 +69,83 @@ education:
         time: 2014 - 2016
         details: |
           Graduated with honors, average score 4.95 out of 5
-            - Bullet point
-            - Bullet point
       - degree: Bachelor of Bioengineering Systems and Technology
         university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
         time: 2010 - 2014
         details: |
           Graduated with honors, average score 4.75 out of 5
-            - Bullet point
-            - Bullet point
 experiences:
-    title: Experiences
+    title: Engineering Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Different software development roles
+        time: May 2017 - Present
+        company: RingCentral, https://www.ringcentral.com
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Developed backend solutions for scalable engineering applications
+          - Played a key role in planning and implementing the architecture, with a focus on the microservice approach and provisioning integration REST APIs for clients
+          - Acted as the primary contact for maintaining, troubleshooting, and providing support for existing microservices in production and staging environments
+          - Mentored and guided new engineers, conducted thorough code reviews, and actively contributed to system architecture design decisions.
+
+      - role: Senior Scala Developer
+        time: Dec 2021 - Present
+        company: Ringcentral, Georgia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Development of Release Management Portal for RingCentral internal use.
+            - Developed from scratch backend for company resource management tool and successfully released it to production, helped with the users onboarding
+            - Developed multiple reporting tools for top management, seamlessly integrated into the main product, enabling the generation of essential reports for quarterly, yearly, and other milestone periods that significantly impact company strategy
+            - Enhanced the backend microservice architecture by implementing cutting-edge design patterns, resulting in improved product performance and optimized infrastructure utilization
+            - Assisted engineering newcomers in team onboarding, provided code reviews and knowledge sharing to keep the team on the same page
+            - **_Technologies highlights:_** Scala, Kafka, PostgreSQL, MongoDB, Docker, K8S, GitLab CI.
+            - **_Scala stack:_** ZIO, Cats, Google Protobuf/RPC, Kafka streams, Zio-Websockets, Quill, Doobie, Circe, Tapir, HTTP4S, ZIOHttp
+            
+      - role: Scala Developer
+        time: Jun 2019 - Dec 2021, 2 years 6 months
+        company:  Ringcentral, Russia, Saint-Petersubrg
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Refactored monolith backend service to a microservice approach using the new main library: from Akka to ZIO. As a result, new feature delivery speed increased, product maintenance was simplified and takes less time, the backend was prepared for migration to k8s
+          - Developed from scratch separate web socket backend microservice that helps to receive and deliver notifications from/to end users
+          - Introduced multiple new microservices implemented based on a new functional library (ZIO) and successfully integrated them into existing architecture
+          - As a primary developer, supported initial migration of infrastructure of test environments to k8s that gave all the benefits of containerization
+          - As a primary developer, supported automation test engineers' requests that help to increase automated integration tests coverage and reduce regression testing time.
+
+      - role: Scala Developer
+        time: Jun 2019 - Dec 2021, 2 years 6 months
+        company:  Ringcentral, Russia, Saint-Petersubrg
+        details: |
+          - Refactored monolith backend service to a microservice approach using the new main library: from Akka to ZIO. As a result, new feature delivery speed increased, product maintenance was simplified and takes less time, the backend was prepared for migration to k8s
+          - Developed from scratch separate web socket backend microservice that helps to receive and deliver notifications from/to end users
+          - Introduced multiple new microservices implemented based on a new functional library (ZIO) and successfully integrated them into existing architecture
+          - As a primary developer, supported initial migration of infrastructure of test environments to k8s that gave all the benefits of containerization
+          - As a primary developer, supported automation test engineers' requests that help to increase automated integration tests coverage and reduce regression testing time.
+
+      - role: Performance Testing Engineer
+        time: May 2017 - Jun 2019, 2 years 2 months
+        company:  Ringcentral, Russia, Saint-Petersubrg
+        details: |
+          Programming languages: Java and Python
+          - Developed performance testing client for testing of RingCentral collaboration product as a part of the performance regression cycle.
+          - Involved in the development of a performance testing library that provided functionality for performance test load profile control and test results collection
+          - Involved in the development and maintenance of the Performance Testing Reporting System that was used as a primary tool for all performance reports in the company
+          - Automated performance testing: analyzed tested system, prepared and implemented test scenarios using performance testing automation tools
+          - Executed and analyzed performance test sessions of business products
+          - **_Technologies highlights:_** Java, Python, Django, Bash, PostgreSQL, MongoDB, Redis, jMeter, TestNG
+
+      - role: Automation Engineer
+        time: Nov 2016 - May 2017, 7 months
+        company:  JSC “OKAN”, Russia, Saint-Petersburg, https://okan.ru
+        details: |
+          Developed an internal engineering system that automated the manufacturing process of valves for nuclear power plants
+
+      - role: Research Engineer
+        time: Sep 2014 - Nov 2016, 2 years 2 months
+        company:  Healbe LTD, Russia, Saint-Petersburg, http://healbe.com
+        details: |
+          - Developed software algorithms prototypes for Healbe Fitness Sensor: solving data mining and motion recognition problems
+          - Tested and adjusted Fitness tracker motion recognition and calories consumption algorithms
+          - Prepared and conducted laboratory experiments with wearable sensors
+          - Handled and processed experiments' results statistics
+
+
 projects:
     title: Projects
     intro: >
