@@ -17,7 +17,7 @@ sidebar:
     timezone: America/Los Angeles Timezone
     citizenship:
     website:
-    linkedin: https://www.linkedin.com/in/ivan-romas/
+    linkedin: https://www.linkedin.com/in/ivan-romas
     xing:
     github:
     telegram:
@@ -53,7 +53,14 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-     1
+     I am a software developer who approaches tasks with an engineering mindset and possesses a solid background in disturbed system analysis and performance testing.
+     Additionally, I am a passionate advocate of the functional programming paradigm, which is why Scala serves as my primary programming language.
+     
+     With more than 5 years of experience in Scala development and over 8 years in software engineering, I bring a wealth of expertise to my work. 
+     Furthermore, I possess proficiency in Java 8 and Python 3+, which I utilized extensively before transitioning into the world of functional programming, where I can work without the inconvenience of NullPointerExceptions and mutable objects.
+     
+     I have hands-on experience in designing and analyzing distributed microservice systems. In previous roles, I demonstrated leadership by guiding junior developers, conducting interviews, and conducting comprehensive code reviews. I possess a genuine enthusiasm for learning new design patterns and development approaches. I am always open to feedback and embrace new technical challenges as opportunities for growth.
+
 education:
     title: Education
     info:
