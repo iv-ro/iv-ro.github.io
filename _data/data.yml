@@ -3,42 +3,39 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ivan Romas
+    tagline: Senior Scala Developer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: romasivan@gmail.com
+    phone:
+    timezone: America/Los Angeles Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:
+    linkedin: https://www.linkedin.com/in/ivan-romas/
+    xing: 
+    github: 
+    telegram:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Russian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -47,21 +44,20 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
         - item: Cooking
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     I am a software developer who approaches tasks with an engineering mindset and possesses a solid background in disturbed system analysis and performance testing. Additionally, I am a passionate advocate of the functional programming paradigm, which is why Scala serves as my primary programming language.
+
+With more than 5 years of experience in Scala development and over 8 years in software engineering, I bring a wealth of expertise to my work. Furthermore, I possess proficiency in Java 8 and Python 3+, which I utilized extensively before transitioning into the world of functional programming, where I can work without the inconvenience of NullPointerExceptions and mutable objects.
+
+I have hands-on experience in designing and analyzing distributed microservice systems. In previous roles, I demonstrated leadership by guiding junior developers, conducting interviews, and conducting comprehensive code reviews. I possess a genuine enthusiasm for learning new design patterns and development approaches. I am always open to feedback and embrace new technical challenges as opportunities for growth.
 education:
     title: Education
     info:
