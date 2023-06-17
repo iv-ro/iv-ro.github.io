@@ -11,12 +11,13 @@
         <h3 class="container-block-subtitle">
             {{ highlight.group.title }}
         </h3>
+    <ul>
         {% for skill in highlight.group.skills %}
     
-          <li> - {{ skill.item }}</li>
+          <li>{{ skill.item }}</li>
         
         {% endfor %}
-    
+    </ul>
     {% endfor %}
   </ul>
 
