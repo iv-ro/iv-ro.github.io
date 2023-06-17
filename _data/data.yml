@@ -38,7 +38,7 @@ sidebar:
         - idiom: English
           level: Professional
 
-    skills:
+    sidebarskills:
       title: Skills highlights
       info:
         - item: Scala
