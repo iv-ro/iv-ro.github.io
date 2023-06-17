@@ -73,7 +73,7 @@ experiences:
     info:
       - role: Different software development roles
         time: May 2017 - Present
-        company: <a href="RingCentral">https://www.ringcentral.com</a>, 
+        company: <a href="https://www.ringcentral.com">RingCentral</a>
         details: |
           - Developed backend solutions for scalable engineering applications
           - Played a key role in planning and implementing the architecture, with a focus on the microservice approach and provisioning integration REST APIs for clients
@@ -82,7 +82,7 @@ experiences:
 
       - role: Senior Scala Developer
         time: Dec 2021 - Present
-        company: RingCentral, Georgia
+        company: <a href="https://www.ringcentral.com">RingCentral</a>, Georgia
         details: |
             Development of Release Management Portal for RingCentral internal use.
             - Developed from scratch backend for company resource management tool and successfully released it to production, helped with the users onboarding
@@ -94,7 +94,7 @@ experiences:
             
       - role: Scala Developer
         time: Jun 2019 - Dec 2021, 2 years 6 months
-        company:  RingCentral, Russia, Saint-Petersubrg
+        company:  <a href="https://www.ringcentral.com">RingCentral</a>, Russia, Saint-Petersburg
         details: |
           - Refactored monolith backend service to a microservice approach using the new main library: from Akka to ZIO. As a result, new feature delivery speed increased, product maintenance was simplified and takes less time, the backend was prepared for migration to k8s
           - Developed from scratch separate web socket backend microservice that helps to receive and deliver notifications from/to end users
@@ -104,7 +104,7 @@ experiences:
 
       - role: Scala Developer
         time: Jun 2019 - Dec 2021, 2 years 6 months
-        company:  RingCentral, Russia, Saint-Petersubrg
+        company: <a href="https://www.ringcentral.com">RingCentral</a>, Russia, Saint-Petersburg
         details: |
           - Refactored monolith backend service to a microservice approach using the new main library: from Akka to ZIO. As a result, new feature delivery speed increased, product maintenance was simplified and takes less time, the backend was prepared for migration to k8s
           - Developed from scratch separate web socket backend microservice that helps to receive and deliver notifications from/to end users
@@ -114,7 +114,7 @@ experiences:
 
       - role: Performance Testing Engineer
         time: May 2017 - Jun 2019, 2 years 2 months
-        company:  Ringcentral, Russia, Saint-Petersubrg
+        company: <a href="https://www.ringcentral.com">RingCentral</a>, Russia, Saint-Petersburg
         details: |
           Programming languages: Java and Python
           - Developed performance testing client for testing of RingCentral collaboration product as a part of the performance regression cycle.
@@ -126,13 +126,13 @@ experiences:
 
       - role: Automation Engineer
         time: Nov 2016 - May 2017, 7 months
-        company:  JSC “OKAN”, Russia, Saint-Petersburg, https://okan.ru
+        company: <a href="https://okan.ru/">JSC OKAN</a>, Russia, Saint-Petersburg, https://okan.ru
         details: |
           Developed an internal engineering system that automated the manufacturing process of valves for nuclear power plants
 
       - role: Research Engineer
         time: Sep 2014 - Nov 2016, 2 years 2 months
-        company:  Healbe LTD, Russia, Saint-Petersburg, http://healbe.com
+        company:  <a href="http://healbe.com/">Healbe LTD</a>, Russia, Saint-Petersburg, http://healbe.com
         details: |
           - Developed software algorithms prototypes for Healbe Fitness Sensor: solving data mining and motion recognition problems
           - Tested and adjusted Fitness tracker motion recognition and calories consumption algorithms
