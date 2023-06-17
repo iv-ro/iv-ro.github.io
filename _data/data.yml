@@ -43,9 +43,37 @@ sidebar:
       title: Skills highlights
       info:
         - group: 
+            title: Scala skills
+            skills:
+                - item: ZIO
+                - item: Protobuf/RPC
+                - item: Quill / Doobie
+                - item: Circe
+                - item: Tapir
+                - item: Http4S, ZioHttp
+                - item: Cats
+        - group: 
             title: Experienced
             skills:
-                - item: Test
+                - item: PostgreSQL
+                - item: MongoDB
+                - item: Kafka
+                - item: Docker
+        - group: 
+            title: Skilful
+            skills:
+                - item: K8S
+                - item: GitLab CI
+                - item: Python
+                - item: Java
+        - group: 
+            title: Had Experinece With
+            skills:
+                - item: AWS
+                - item: Redis
+                - item: Cassandra
+                - item: Django
+                - item: jMeter
     
     interests:
       title: Interests
