@@ -39,10 +39,11 @@ sidebar:
         - idiom: English
           level: Professional
 
-    skills:
+    highlights:
       title: Skills highlights
       info:
         - item: Scala
+          link:
 
     interests:
       title: Interests
