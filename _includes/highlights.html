@@ -9,9 +9,9 @@
   <ul class="list-unstyled highlights-list">
     {% for highlight in highlights.info %}
         <h3 class="container-block-title">
-            {{ highlight.group }}
+            {{ highlight.group.title }}
         </h3>
-        {% for skill in highlight.group %}
+        {% for skill in highlight.group.skills %}
     
           <li> - {{ skill.item }}</li>
         
