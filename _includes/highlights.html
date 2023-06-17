@@ -8,13 +8,15 @@
 
   <ul class="list-unstyled highlights-list">
     {% for highlight in highlights.info %}
-
-      {% if highlight.link %}
-      <li><a href="{{ highlight.link }}">{{ highlight.item }}</a></li>
-      {% else %}
-      <li>{{ highlight.item }}</li>
-      {% endif %}
-
+        <h3 class="container-block-title">
+            {{ highlight.group }}
+        </h3>
+        {% for skill in highlight.group %}
+    
+          <li> - {{ skill.item }}</li>
+        
+        {% endif %}
+    
     {% endfor %}
   </ul>
 
