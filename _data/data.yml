@@ -52,6 +52,7 @@ sidebar:
                 - item: Tapir
                 - item: Http4S, ZioHttp
                 - item: Cats
+                - item: Akka (long ago)
         - group: 
             title: Experienced
             skills:
