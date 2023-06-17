@@ -42,16 +42,11 @@ sidebar:
     highlights:
       title: Skills highlights
       info:
-        - group: Experienced
-            - item: Scala
-            - item: ZIO
-        - group: Skillful
-            - item: K8S
-        - group: Basic knowledge
-            - item: GraphQL
-        - group: Had experience with
-            - item: Angular
-
+        - group: 
+            title: Experienced
+            skills:
+                - item: Test
+    
     interests:
       title: Interests
       info:
