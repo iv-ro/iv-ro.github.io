@@ -73,7 +73,7 @@ experiences:
     info:
       - role: Different software development roles
         time: May 2017 - Present
-        company: RingCentral, https://www.ringcentral.com
+        company: <a href="RingCentral">https://www.ringcentral.com</a>, 
         details: |
           - Developed backend solutions for scalable engineering applications
           - Played a key role in planning and implementing the architecture, with a focus on the microservice approach and provisioning integration REST APIs for clients
