@@ -43,7 +43,7 @@ sidebar:
       title: Skills highlights
       info:
         - group: 
-            title: Scala skills
+            title: Scala
             skills:
                 - item: ZIO
                 - item: Protobuf/RPC
