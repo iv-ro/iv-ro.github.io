@@ -92,7 +92,7 @@ career-profile:
     title: Profile
     summary: |
      I am a software developer who approaches tasks with an engineering mindset and possesses a solid background in disturbed system analysis and performance testing.
-     Additionally, I am a passionate advocate of the functional programming paradigm, which is why Scala serves as my primary programming language.
+     Additionally, I am a passionate advocate of the functional programming paradigm, which is why **Scala serves as my primary programming language**.
      
      **With more than 5 years of experience in Scala development and over 8 years in software engineering**, I bring a wealth of expertise to my work. 
      Furthermore, I possess proficiency in Java 8 and Python 3+, which I utilized extensively before transitioning into the world of functional programming, where I can work without the inconvenience of NullPointerExceptions and mutable objects.
@@ -174,12 +174,12 @@ education:
     title: Education
     info:
       - degree: Masters in Information Systems and Technology
-        university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
+        university: <a href="http://eltech.ru">Saint Petersburg State Electrotechnical University</a>, Russia, Saint-Petrsburg
         time: 2014 - 2016
         details: |
           Graduated with honors, average score 4.95 out of 5
       - degree: Bachelor of Bioengineering Systems and Technology
-        university: Saint Petersburg State Electrotechnical University [http://eltech.ru], Russia, Saint-Petrsburg
+        university: <a href="http://eltech.ru">Saint Petersburg State Electrotechnical University</a>, Russia, Saint-Petrsburg
         time: 2010 - 2014
         details: |
           Graduated with honors, average score 4.75 out of 5
@@ -210,25 +210,11 @@ publications:
         conference:
 
 skills:
-    title: Skills &amp; Proficiency
+    title:
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name:
+        level: 1%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer:
