@@ -28,7 +28,7 @@ sidebar:
     stack-overflow:
     codewars:
     goodreads:
-    pdf:
+    pdf: https://github.com/iv-ro/iv-ro.github.io/raw/master/assets/pdf/IvanRomasCV.pdf
 
     languages:
       title: Languages
