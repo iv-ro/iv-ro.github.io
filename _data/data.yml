@@ -10,7 +10,7 @@ sidebar:
     name: Ivan Romas
     tagline: Senior Scala Developer
     location: San Diego, CA
-    avatar: 4.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 5.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: romasivan@gmail.com
