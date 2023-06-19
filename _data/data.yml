@@ -67,8 +67,9 @@ sidebar:
                 - item: GitLab CI
                 - item: Python
                 - item: Java
+                - item: RocksDB
         - group: 
-            title: Had Experinece With
+            title: Had Experience With
             skills:
                 - item: AWS
                 - item: Redis
