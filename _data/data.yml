@@ -42,7 +42,7 @@ sidebar:
     highlights:
       title: Skills highlights
       info:
-        - group: 
+        - group:
             title: Scala
             skills:
                 - item: ZIO
@@ -53,14 +53,14 @@ sidebar:
                 - item: Http4S, ZioHttp
                 - item: Cats
                 - item: Akka, AkkaFSM (long ago)
-        - group: 
+        - group:
             title: Experienced
             skills:
                 - item: PostgreSQL
                 - item: MongoDB
                 - item: Kafka
                 - item: Docker
-        - group: 
+        - group:
             title: Skilful
             skills:
                 - item: K8S
@@ -68,7 +68,7 @@ sidebar:
                 - item: Python
                 - item: Java
                 - item: RocksDB
-        - group: 
+        - group:
             title: Had Experience With
             skills:
                 - item: AWS
@@ -76,7 +76,7 @@ sidebar:
                 - item: Cassandra
                 - item: Django
                 - item: jMeter
-    
+
     interests:
       title: Interests
       info:
@@ -103,23 +103,23 @@ career-profile:
 experiences:
     title: Engineering Experience
     info:
+      - role: Senior Scala Developer
+        time: Jan 2024 - Present
+        company: <a href="https://www.farther.com">Farther</a>, US, CA, remote
+        details: |
+          Development of FinTech portal BE for financial advisors using Scala
+          - Delivering complex features to the end uses in a tight deadlines
+          - Introducing performance enhancements and architectural improvements for existing microservice infrastructure
+          - **_Technologies highlights:_** Scala, Cats Effects, CockroachDB, Kafka, Doobie, Docker, Github CI.
+
       - role: Different software development roles
-        time: May 2017 - Present
+        time: May 2017 - December 2023
         company: <a href="https://www.ringcentral.com">RingCentral</a>
         details: |
           - Developed backend solutions for scalable engineering applications
           - Played a key role in planning and implementing the architecture, with a focus on the microservice approach and provisioning integration REST APIs for clients
           - Acted as the primary contact for maintaining, troubleshooting, and providing support for existing microservices in production and staging environments
           - Mentored and guided new engineers, conducted thorough code reviews, and actively contributed to system architecture design decisions.
-
-      - role: Senior Scala Developer
-        time: Jan 2024 - Present
-        company: <a href="https://www.farther.com">Farther</a>, US, CA, remote
-        details: |
-            Development of FinTech portal BE for financial advisors using Scala
-            - Delivering complex features to the end uses in a tight deadlines
-            - Introducing performance enhancements and architectural improvements for existing microservice infrastructure
-            - **_Technologies highlights:_** Scala, Cats Effects, CockroachDB, Kafka, Doobie, Docker, Github CI.
 
       - role: Senior Scala Developer
         time: Dec 2021 - December 2023
@@ -210,7 +210,7 @@ oss:
       - title:
         link:
         tagline:
-        
+
 publications:
     title:
     intro:
