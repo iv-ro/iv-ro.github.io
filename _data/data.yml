@@ -95,7 +95,7 @@ career-profile:
      I am a software developer who approaches tasks with an engineering mindset and possesses a solid background in disturbed system analysis and performance testing.
      Additionally, I am passionate about the functional programming paradigm, which is why **Scala serves as my primary programming language**.
      
-     **With more than 5 years of experience in Scala development and over 9 years in software engineering**, I bring all the benefits of this expertise to my work. 
+     **With more than 6 years of experience in Scala development and over 10 years in software engineering**, I bring all the benefits of this expertise to my work. 
      Furthermore, I possess proficiency in Java 8 and Python 3+, which I utilized extensively before transitioning into the world of functional programming, where I can work without the inconvenience of NullPointerExceptions and mutable objects.
      
      I have hands-on experience in designing and analyzing distributed microservice systems. In previous roles, I demonstrated leadership by guiding junior developers, conducting interviews, and conducting comprehensive code reviews. I possess a genuine enthusiasm for learning new design patterns and development approaches. I am always open to feedback and embrace new technical challenges as opportunities for growth.
@@ -113,17 +113,27 @@ experiences:
           - Mentored and guided new engineers, conducted thorough code reviews, and actively contributed to system architecture design decisions.
 
       - role: Senior Scala Developer
-        time: Dec 2021 - Present
-        company: <a href="https://www.ringcentral.com">RingCentral</a>, Georgia
+        time: Jan 2024 - Present
+        company: <a href="https://www.farther.com">Farther</a>, US, CA, remote
         details: |
-            Development of Release Management Portal for RingCentral internal use.
+            Development of FinTech portal BE for financial advisors using Scala
+            - Delivering complex features to the end uses in a tight deadlines
+            - Introducing performance enhancements and architectural improvements for existing microservice infrastructure
+            - **_Technologies highlights:_** Scala, Cats Effects, CockroachDB, Kafka, Doobie, Docker, Github CI.
+
+      - role: Senior Scala Developer
+        time: Dec 2021 - December 2023
+        company: <a href="https://www.ringcentral.com">RingCentral</a>, Remote
+        details: |
+            1. Greenfield AI virtual assistant project using Scala 3
+            2. Development of Release Management Portal for RingCentral internal use.
             - Developed from scratch backend for company resource management tool for 8k+ global workforce and successfully released it to production, helped with the users onboarding
             - Developed multiple reporting tools for top management, seamlessly integrated into the main product, enabling the generation of essential reports for quarterly, yearly, and other milestone periods that significantly impact company strategy
             - Enhanced the backend microservice architecture by implementing cutting-edge design patterns, resulting in improved product performance and optimized infrastructure utilization
             - Assisted engineering newcomers in team onboarding, provided code reviews and knowledge sharing to keep the team on the same page
             - **_Technologies highlights:_** Scala, Kafka, PostgreSQL, MongoDB, Docker, K8S, GitLab CI.
             - **_Scala stack:_** ZIO, Cats, Google Protobuf/RPC, Kafka streams, Zio-Websockets, Quill, Doobie, Circe, Tapir, HTTP4S, ZIOHttp
-            
+
       - role: Scala Developer
         time: Jun 2019 - Dec 2021, 2 years 6 months
         company:  <a href="https://www.ringcentral.com">RingCentral</a>, Russia, Saint-Petersburg
