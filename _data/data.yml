@@ -109,10 +109,11 @@ experiences:
         details: |
           Development of FinTech portal for advisors and assets management using Scala
           - Taking a key role in microservice development using Scala and Cats
+          - Decreased number of incidents on PROD by refactoring and bugfixing of existing flows
           - Introduced a new approach to REST API development and management that increased code readability and simplified maintenance.
           - Delivered complex features to the end users in a tight deadlines
           - Introducing performance enhancements and architectural improvements for existing microservice infrastructure
-          - **_Technologies highlights:_** Scala, Cats Effects, AWS, CockroachDB, Kafka, Doobie, Docker, Github CI.
+          - **_Technologies highlights:_** Scala, Cats Effects, AWS, CockroachDB, Kafka, Doobie, Docker, Github CI
 
       - role: Different software development roles
         time: May 2017 - December 2023
@@ -121,19 +122,19 @@ experiences:
           - Developed backend solutions for scalable engineering applications
           - Played a key role in planning and implementing the architecture, with a focus on the microservice approach and provisioning integration REST APIs for clients
           - Acted as the primary contact for maintaining, troubleshooting, and providing support for existing microservices in production and staging environments
-          - Mentored and guided new engineers, conducted thorough code reviews, and actively contributed to system architecture design decisions.
+          - Mentored and guided new engineers, conducted thorough code reviews, and actively contributed to system architecture design decisions
 
       - role: Senior Scala Developer
         time: Dec 2021 - December 2023
         company: <a href="https://www.ringcentral.com">RingCentral</a>, Remote
         details: |
             1. Greenfield AI virtual assistant project using Scala 3
-            2. Development of Release Management Portal for RingCentral internal use.
+            2. Development of Release Management Portal for RingCentral internal use
             - Developed from scratch backend for company resource management tool for 8k+ global workforce and successfully released it to production, helped with the users onboarding
             - Developed multiple reporting tools for top management, seamlessly integrated into the main product, enabling the generation of essential reports for quarterly, yearly, and other milestone periods that significantly impact company strategy
             - Enhanced the backend microservice architecture by implementing cutting-edge design patterns, resulting in improved product performance and optimized infrastructure utilization
             - Assisted engineering newcomers in team onboarding, provided code reviews and knowledge sharing to keep the team on the same page
-            - **_Technologies highlights:_** Scala, Kafka, PostgreSQL, MongoDB, Docker, K8S, GitLab CI.
+            - **_Technologies highlights:_** Scala, Kafka, PostgreSQL, MongoDB, Docker, K8S, GitLab CI
             - **_Scala stack:_** ZIO, Cats, Google Protobuf/RPC, Kafka streams, Zio-Websockets, Quill, Doobie, Circe, Tapir, HTTP4S, ZIOHttp
 
       - role: Scala Developer
@@ -154,14 +155,14 @@ experiences:
           - Developed from scratch separate web socket backend microservice that helps to receive and deliver notifications from/to end users
           - Introduced multiple new microservices implemented based on a new functional library (ZIO) and successfully integrated them into existing architecture
           - As a primary developer, supported initial migration of infrastructure of test environments to k8s that gave all the benefits of containerization
-          - As a primary developer, supported automation test engineers' requests that help to increase automated integration tests coverage and reduce regression testing time.
+          - As a primary developer, supported automation test engineers' requests that help to increase automated integration tests coverage and reduce regression testing time
 
       - role: Performance Testing Engineer
         time: May 2017 - Jun 2019, 2 years 2 months
         company: <a href="https://www.ringcentral.com">RingCentral</a>, Russia, Saint-Petersburg
         details: |
           Programming languages: Java and Python
-          - Developed performance testing client for testing of RingCentral collaboration product as a part of the performance regression cycle.
+          - Developed performance testing client for testing of RingCentral collaboration product as a part of the performance regression cycle
           - Involved in the development of a performance testing library that provided functionality for performance test load profile control and test results collection
           - Involved in the development and maintenance of the Performance Testing Reporting System that was used as a primary tool for all performance reports in the company
           - Automated performance testing: analyzed tested system, prepared and implemented test scenarios using performance testing automation tools
