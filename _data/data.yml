@@ -46,23 +46,24 @@ sidebar:
             title: Scala
             skills:
                 - item: ZIO
+                - item: Cats IO
                 - item: Protobuf/RPC
                 - item: Quill / Doobie
                 - item: Circe
                 - item: Tapir
                 - item: Http4S, ZioHttp
-                - item: Cats
                 - item: Akka, AkkaFSM (long ago)
         - group:
             title: Experienced
             skills:
-                - item: PostgreSQL
+                - item: PostgreSQL, CockroachDB
                 - item: MongoDB
                 - item: Kafka
                 - item: Docker
         - group:
             title: Skilful
             skills:
+                - item: AWS cloud services
                 - item: K8S
                 - item: GitLab CI
                 - item: Python
@@ -71,7 +72,6 @@ sidebar:
         - group:
             title: Had Experience With
             skills:
-                - item: AWS
                 - item: Redis
                 - item: Cassandra
                 - item: Django
@@ -95,10 +95,10 @@ career-profile:
      I am a software developer who approaches tasks with an engineering mindset and possesses a solid background in disturbed system analysis and performance testing.
      Additionally, I am passionate about the functional programming paradigm, which is why **Scala serves as my primary programming language**.
      
-     **With more than 6 years of experience in Scala development and over 10 years in software engineering**, I bring all the benefits of this expertise to my work. 
+     **With more than 7 years of experience in Scala development and over 10 years in software engineering**, I bring all the benefits of this expertise to my team. 
      Furthermore, I possess proficiency in Java 8 and Python 3+, which I utilized extensively before transitioning into the world of functional programming, where I can work without the inconvenience of NullPointerExceptions and mutable objects.
      
-     I have hands-on experience in designing and analyzing distributed microservice systems. In previous roles, I demonstrated leadership by guiding junior developers, conducting interviews, and conducting comprehensive code reviews. I possess a genuine enthusiasm for learning new design patterns and development approaches. I am always open to feedback and embrace new technical challenges as opportunities for growth.
+     I have hands-on experience in designing and analyzing distributed microservice systems. In previous roles, I demonstrated leadership by managing product services, guiding junior developers, conducting interviews, and conducting comprehensive code reviews. I possess a genuine enthusiasm for learning new design patterns and development approaches. I am always open to feedback and embrace new technical challenges as opportunities for growth.
 
 experiences:
     title: Engineering Experience
@@ -107,10 +107,12 @@ experiences:
         time: Jan 2024 - Present
         company: <a href="https://www.farther.com">Farther</a>, US, CA, remote
         details: |
-          Development of FinTech portal BE for financial advisors using Scala
-          - Delivering complex features to the end uses in a tight deadlines
+          Development of FinTech portal for advisors and assets management using Scala
+          - Taking a key role in microservice development using Scala and Cats
+          - Introduced a new approach to REST API development and management that increased code readability and simplified maintenance.
+          - Delivered complex features to the end users in a tight deadlines
           - Introducing performance enhancements and architectural improvements for existing microservice infrastructure
-          - **_Technologies highlights:_** Scala, Cats Effects, CockroachDB, Kafka, Doobie, Docker, Github CI.
+          - **_Technologies highlights:_** Scala, Cats Effects, AWS, CockroachDB, Kafka, Doobie, Docker, Github CI.
 
       - role: Different software development roles
         time: May 2017 - December 2023
